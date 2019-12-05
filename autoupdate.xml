@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+    <version>2.0.0.0</version>
+    <url>http://gitkcpl.github.io/AutoUpdaterTest.zip</url>
+    <changelog>http://gitkcpl.github.io/Release</changelog>
+    <mandatory>false</mandatory>
+</item>
